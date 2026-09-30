@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+h1, p {
+  font-family: monospace;
+  margin-top: 15px;
+}
+
+input, button {
+  margin: 5px;
+  padding: 5px;
+}
